@@ -1,0 +1,12 @@
+{
+  "name": "shoppy-ui",
+  "displayName": "shoppy-ui",
+  "expo": {
+    "name": "shoppy-ui",
+    "slug": "shoppy-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
