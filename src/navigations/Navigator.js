@@ -43,7 +43,7 @@ const BottomTabNavigator = () => {
           tabBarIcon:({color, size}) => (
             <Image 
               source={require("../images/9.png")}
-              style={{ height: 20, widthe: 20}}
+              style={{ height: 20, width: 20}}
             />
           )
         }}
@@ -57,7 +57,7 @@ const BottomTabNavigator = () => {
           tabBarIcon:({color, size}) => (
             <Image 
               source={require("../images/10.png")}
-              style={{ height: 20, widthe: 20}}
+              style={{ height: 20, width: 20}}
             />
           )
         }}
